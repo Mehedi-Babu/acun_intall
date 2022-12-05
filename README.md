@@ -16,4 +16,6 @@ $ cp Crack/license_info.json /home/acunetix/.acunetix/data/license/
 
 $ systemctl start acunetix.service
 
-Open https://localhost:3443 and log in to use.
+
+
+Now open https://localhost:3443 and log in to use.
